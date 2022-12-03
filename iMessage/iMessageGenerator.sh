@@ -1,9 +1,8 @@
 #!/bin/bash
 #
-# Copyright (C) 2017 Dundin <jooeungen@gmail.com>
+# Copyright (C) 2022 strengthen
 #
-# Based on https://github.com/smallmuou/ios-icon-generator/blob/master/ios-icon-generator.sh
-# from Wenva <lvyexuwenfa100@126.com>
+# Based on https://github.com/strengthen/Generator
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
