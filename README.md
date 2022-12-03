@@ -14,7 +14,7 @@ $ brew install imagemagick
 $ sh iMessageGenerator.sh [square_file_path] [rectangle_file_path]
 
 // EXAMPLE
-$ sh iMessageGenerator.sh square.png rectangle.png
+$ sh iMessageGenerator.sh ~/square.png ~/rectangle.png
 ```
 describution:
 1. square image : 1024x1024 pixel.
@@ -25,7 +25,7 @@ describution:
 $ sh appleGenerator.sh [source_image] [destination_path]
 
 // EXAMPLE
-$ sh appleGenerator.sh 1024.png ~/icon
+$ sh appleGenerator.sh ~/1024.png ~/icon
 ```
 describution:
 1. source_image: The source png image, 1024x1024 pixel.
